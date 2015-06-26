@@ -1206,7 +1206,8 @@ Options:
  - `--generic-ssh-key`: Path to the SSH user private key.
  - `--generic-ssh-port`: Port to use for SSH.
 
-> **Note**: You must use a base operating system supported by Machine.
+> **Note**: You must use a base [operating system supported by Machine](#specify-a-base-operating-systems).
+
 
 Environment variables and default values:
 
